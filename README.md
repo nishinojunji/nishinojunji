@@ -1,4 +1,4 @@
-# 西野順二 nishino junji
+# にしのじゅんじ nishino junji
 
 - ファジィ理論
 - 趣味のプログラミング
