@@ -5,6 +5,21 @@
 - ジャグリング
 - イスカスアカデメイアソフト
 - 未踏
+- ミニ四駆AI
+
+# その他の活動
+- システム科学
+- システム工学
+- スポーツAI
+- ファジィシステム
+- ファジィモデリング
+- ファジィ制御
+- 知能情報処理
+- マルチエージェント
+- ロボカップサッカー
+- ゲーム情報学
+- 強化学習
+
 
 <!---
 nishinojunji/nishinojunji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
