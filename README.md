@@ -7,6 +7,13 @@
 - 未踏
 - ミニ四駆AI
 
+# ブログラミング
+- C
+- Ruby
+- JavaScript
+- Tcl/Tk
+- Forth, PostScript
+
 # その他の活動
 - システム科学
 - システム工学
@@ -19,13 +26,6 @@
 - ロボカップサッカー
 - ゲーム情報学
 - 強化学習
-
-# ブログラミング
-- C
-- Ruby
-- JavaScript
-- Tcl/Tk
-- Forth, PostScript
 
 <!---
 nishinojunji/nishinojunji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
