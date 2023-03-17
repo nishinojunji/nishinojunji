@@ -6,7 +6,8 @@
 - イスカスアカデメイアソフト
 - 未踏
 - ミニ四駆AI
-
+ - RoboCup soccer simulation
+ 
 # ブログラミング
 - C
 - Ruby
