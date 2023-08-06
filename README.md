@@ -1,14 +1,15 @@
 # にしのじゅんじ nishino junji
 
-- ファジィ理論
-- 趣味のプログラミング
-- ジャグリング
-- イスカスアカデメイアソフト
-- 未踏
-- ミニ四駆AI
- - RoboCup soccer simulation
+## ファジィ理論
+- [新しいファジィ理論入門](https://github.com/nishinojunji/fuzzyintroduction)
+## 趣味のプログラミング
+## ジャグリング
+## イスカスアカデメイアソフト
+## 未踏
+## ミニ四駆AI
+## RoboCup soccer simulation
  
-# ブログラミング
+# プログラミング
 - C
 - Ruby
 - JavaScript
