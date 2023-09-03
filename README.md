@@ -6,6 +6,7 @@
 ## ジャグリング
 ## イスカスアカデメイアソフト
 ## 未踏
+- 2005
 ## ミニ四駆AI
 ## RoboCup soccer simulation
  
