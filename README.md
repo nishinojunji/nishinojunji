@@ -2,13 +2,19 @@
 
 ## ファジィ理論
 - [新しいファジィ理論入門](https://github.com/nishinojunji/fuzzyintroduction)
+
 ## 趣味のプログラミング
+
 ## ジャグリング
+
 ## イスカスアカデメイアソフト
+
 - https://www.iskhas.com/
+
 ## 未踏
 - 2005
 - OZED http://ozed.osdn.jp/
+
 ## ミニ四駆AI
 
 ## RoboCup soccer simulation
@@ -19,6 +25,7 @@
 - JavaScript
 - Tcl/Tk
 - Forth, PostScript
+- Rust
 
 # その他の活動
 - システム科学
