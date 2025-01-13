@@ -13,7 +13,7 @@
 
 ## 未踏
 - 2005
-- OZED http://ozed.osdn.jp/
+- OZED http://ozed.osdn.jp/ : サイトが停止となりました。wayback machine -> [ozed](https://web.archive.org/web/20160304015529/http://ozed.osdn.jp/)
 
 ## ミニ四駆AI
 
